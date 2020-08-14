@@ -1,0 +1,15 @@
+initial-data
+docs
+cmd
+bin
+bench
+alp
+
+webapp/public
+webapp/frontend
+webapp/docs
+webapp/python
+webapp/sql
+
+webapp/nodejs/public
+webapp/nodejs/node_modules
